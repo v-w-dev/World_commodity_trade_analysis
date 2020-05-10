@@ -4,6 +4,6 @@ It is a Python Jupyter notebook module or file to generate data and visualizatio
 ### 16 product/commodity group
 ![the link not valid](https://raw.githubusercontent.com/v-w-dev/World_commodity_trade_analysis/master/product_group.PNG)
 
-### World Ranking (in terms of Export values %share) for different product/commodity group
+### World Ranking (in terms of Export values %share), showing Top 5 for different product/commodity group
 - click image to view full size
 ![the link not valid](https://raw.githubusercontent.com/v-w-dev/World_commodity_trade_analysis/master/Exporter_ranking.png)
